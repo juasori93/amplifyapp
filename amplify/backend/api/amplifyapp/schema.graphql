@@ -7,4 +7,4 @@ type Note @model {
   name: String!
   description: String
   image: String
-}
+} 
